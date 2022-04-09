@@ -1,2 +1,2 @@
 # ADaxo
-Active defense Gray zone taxonomy machine tag.
+Active Defense Gray Zone by DCG420 taxonomy machine tag.
