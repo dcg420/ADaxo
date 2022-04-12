@@ -1,10 +1,53 @@
 {
   "namespace": "GreyZone",
-  "expanded": "Grey Zone of Active Defense for AcD planning and modeling",
   "description": "Grey Zone of Active defense includes all elements which lay between reactive defense elements and offensive operations. It does fill the grey spot between them. Taxo may be used for active defense planning or modeling.",
   "version": 2,
-  "refs": [
-    "https://dcg420.org/active-defense-gray-zone-v2-0-by-dcg420"
+
+  "predicates":[
+    {
+    "value": "Adversary Emulation",
+    "expanded": ""
+    },
+    {
+    "value": "Beacons",
+    "expanded": ""
+    },
+    {
+    "value": "Deterrence",
+    "expanded": ""
+    },
+    {
+    "value": "Deception",
+    "expanded": ""
+    },
+    {
+    "value": "Tarpits, Sandboxes and Honeypots",
+    "expanded": ""
+    },
+    {
+    "value": "Threat Intelligence",
+    "expanded": ""
+    },
+    {
+    "value": "Threat Hunting",
+    "expanded": ""
+    },
+    {
+    "value": "Adversary Takedowns",
+    "expanded": ""
+    },
+    {
+    "value": "Ransomware",
+    "expanded": ""
+    },
+    {
+    "value": "Rescue Missions",
+    "expanded": ""
+    },
+    {
+    "value": "Sanctions, Indictments & Trade Remedies",
+    "expanded": ""
+    }
   ],
   "values": [{
       "predicate": "Adversary Emulation",
