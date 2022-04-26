@@ -52,6 +52,11 @@
   "values": [{
       "predicate": "Adversary Emulation",
       "entry": [{
+          "value": "Adversary Emulation",
+          "expanded": "Adversary Emulation General",
+          "description": "Action to emulate adversary TTP"
+        },
+        {
           "value": "Threat Modeling",
           "expanded": "Arch threat modeling",
           "description": "Modeling threat in services or/and in applications"
@@ -76,6 +81,11 @@
     {
       "predicate": "Beacons",
       "entry": [{
+          "value": "Beacons",
+          "expanded": "Beacons General",
+          "description": "All about beacons as general category"
+        },        
+        {
           "value": "Inform",
           "expanded": "Information from beacon",
           "description": "Provide defender with informations about beacon user, intentional or not"
@@ -90,6 +100,11 @@
     {
       "predicate": "Deterrence",
       "entry": [{
+          "value": "Deterrence",
+          "expanded": "Deterrence general",
+          "description": "Deterrence general category"
+        },
+        {
           "value": "by Retaliation",
           "expanded": "Retaliation risk",
           "description": "Adversary is threatened by retaliation if it will continue in actions"
@@ -133,6 +148,11 @@
     {
       "predicate": "Tarpits, Sandboxes and Honeypots",
       "entry": [{
+          "value": "Tarpits, Sandboxes and Honeypots",
+          "expanded": "General category for Tarpits, Sandboxes and Honeypots",
+          "description": "General category"
+        },
+        {
           "value": "Honeypots",
           "expanded": "Honeypots",
           "description": "Emulating technical resources as services or whole meachines or identities"
@@ -152,6 +172,11 @@
     {
       "predicate": "Threat Intelligence",
       "entry": [{
+          "value": "Threat Intelligence",
+          "expanded": "Threat Intelligence general category",
+          "description": "Threat Intelligence general category"
+        },
+        {
           "value": "Passive - OSINT",
           "expanded": "OpenSourceINTelligence",
           "description": "Use of OSINT for creating of Threat Intelligence"
@@ -184,6 +209,11 @@
     {
       "predicate": "Adversary Takedowns",
       "entry": [{
+          "value": "Adversary Takedowns",
+          "expanded": "Adversary Takedowns General",
+          "description": "Adversary Takedowns General category"
+        },
+        {
           "value": "Botnet Takedowns",
           "expanded": "Botnet Takedowns",
           "description": "Activity with approval of legal gevernmental entities ie. courts to stop unwanted actions or prevent them"
